@@ -14,7 +14,7 @@ Companion textbook: [cvmath.club](https://cvmath.club/)
 | `01_exploratory_segmentation.ipynb` | Grayscale thresholding, Dice score |
 | `02_bayesian_optimisation.ipynb` | Auto-search for best thresholds, train/test split |
 | `03_image_processing.ipynb` | Denoising, morphological opening/closing |
-| `03v2_stain_deconvolution.ipynb` | B−R diff + HSV colour pipelines, morphological cleanup |
+| `03v2_targeted_artifact_removal.ipynb` | Nucleus blemish removal via connected-component size filtering |
 | `04_pixel_classifiers.ipynb` | k-NN on RGB colour vectors |
 | `05_convolutions.ipynb` | Manual convolution, minimal PyTorch CNN |
 | `06_unet.ipynb` | Encoder-decoder U-Net with skip connections |
