@@ -38,6 +38,6 @@ Notebooks are student-facing — keep code parsimonious and readable:
 - Avoid extra imports when `plt` or `np` already covers the need
 
 ## Git Repository
-- GitHub: `emilsar/VocEd` (public)
+- GitHub: `crefossus/VocEd` (public)
 - Branch: `main`, remote: `origin/main`
 - Students open notebooks directly in Colab via the README badge links
